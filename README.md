@@ -99,7 +99,10 @@ I need to have the correct fare calculated
 ```
 ## Contributors
 
-* [Colin McCulloch](https://github.com/ColinMcCulloch)
 * [Andrew Burnie](https://github.com/Andrew47)
 * [Michael Lennox](https://github.com/michaellennox) michael@michaellennox.me
+* [Colin McCulloch](https://github.com/ColinMcCulloch)
 * [Chris Wynne](https://github.com/Wynndow)
+* [Tom Bradley](https://github.com/trbradley)
+* [Sara Tateno](https://github.com/saratateno)
+* [Katie Smith](https://github.com/klssmith)
